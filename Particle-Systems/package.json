@@ -1,0 +1,20 @@
+{
+  "name": "particle-systems",
+  "version": "1.0.0",
+  "description": "Making a bunch of particles with tree js",
+  "main": "index.js",
+  "repository": "https://github.com/AntonioGally/threeJs_studies",
+  "author": "Antonio Gally",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "dat.gui": "^0.7.7",
+    "three": "^0.129.0",
+    "vite": "^2.3.4"
+  },
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
