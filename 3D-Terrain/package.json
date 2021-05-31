@@ -1,0 +1,19 @@
+{
+  "name": "3d-terrain",
+  "version": "1.0.0",
+  "description": "Using three js to do a 3d terrain model, interacting with the mouse hover",
+  "main": "index.js",
+  "repository": "https://github.com/AntonioGally/threeJs_studies",
+  "author": "Antonio Gally",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "three": "^0.129.0",
+    "vite": "^2.3.4"
+  },
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
